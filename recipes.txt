@@ -1,0 +1,20 @@
+tin+copper
+copper+aluminum
+obsidian+iron+aluminum
+ardite+cobalt
+iron+nickel
+gold+silver
+gold+iron
+bronze+iron
+bronze+gold
+iron+manganese
+copper+zinc
+kalendrite+platinum
+alduorite+ceruclase
+shadow iron+lemurite
+infuscolium+deep iron
+orichalcum+platinum
+mithril+rubracium
+mithril+silver
+adamantine+atlarus
+eximite+meutoite
